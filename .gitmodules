@@ -1,0 +1,3 @@
+[submodule "git-subtree-child"]
+	path = git-subtree-child
+	url = https://github.com/mhoeger/git-subtree-child.git
